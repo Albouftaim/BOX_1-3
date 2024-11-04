@@ -1,0 +1,25 @@
+.h1 {
+    text-align: center;
+    color: blue;
+}
+.container {
+    display: flex;
+    border-color: aquamarine red rebeccapurple;
+}
+.item-1 {
+    background-color: blanchedalmond;
+
+}.item-2 {
+    background-color: blue;
+}.item-3 {
+    background-color: red;
+}.item-4 {
+    background-color: aqua;
+}
+.kotak {
+    height: 1000px;
+    width: 670px;
+    border: solid;
+    margin-right: 100px;
+}
+    
